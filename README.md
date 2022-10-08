@@ -25,6 +25,21 @@
 | 9 | 使用者測試 | 20 | 7, 8 |
 ---
 ### 甘特圖:
+```mermaid
+gantt
+    title 甘特圖
+
+    section 任務
+    任務1 題目構想 : a1, 2022-10-10, 1d
+    任務2 研擬計畫 : a2, after a1, 1d
+    任務3 架構流程 : a3, after a1, 1d
+    任務4 任務分配 : a4, after a3, 4d
+    任務5 程式開發 : a5, after a4, 70d
+    任務6 程序測試 : a6, after a5, 25d
+    任務7 撰寫使用手冊 : a7, after a6, 15d
+    任務8 系統測試 : a8, after a6, 20d
+    任務9 使用者測試 : a9, after a8, 20d
+```
 
 ---
 ### PERT/CPM圖:
