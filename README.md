@@ -28,7 +28,7 @@
 ```mermaid
 gantt
     title 甘特圖
-
+    
     section 任務
     任務1 題目構想 : a1, 2022-10-10, 1d
     任務2 研擬計畫 : a2, after a1, 1d
