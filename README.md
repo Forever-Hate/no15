@@ -193,3 +193,6 @@ classDiagram
 ---
 ### 動態模擬畫面:
 [使用者案例1模擬畫面](https://www.figma.com/proto/Zo0ObYiY29YDC16TDFRk66/Untitled?node-id=7%3A1415&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=7%3A1415)
+
+### DFD:
+![DFD](DFD.jpg "DFD")
