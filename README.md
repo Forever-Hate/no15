@@ -201,3 +201,6 @@ classDiagram
 
 ### DFD-level0:
 ![DFD-0](DFD-0.png "DFD-0")
+
+### 類別圖:
+![Class Diagram](Class_Diagram.png "Class Diagram")
