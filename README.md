@@ -170,6 +170,12 @@ classDiagram
 使用案例圖 - 1:<br>
 ![UML1](UML1.png "UML1")
 
+### 循序圖 - 1:
+![循序圖-1](循序圖-1.png "循序圖-1")
+
+### 活動圖-案例1:
+![活動圖-1](Activity-Diagram1.png "活動圖-1")
+
 使用案例說明 - 2:
 | 使用案例名稱 | 控制播放器 |
 |:------------|:----------|
@@ -179,6 +185,12 @@ classDiagram
 
 使用案例圖 - 2:<br>
 ![UML2](UML2.png "UML2")
+
+### 循序圖 - 2:
+![循序圖-2](循序圖-2.png "循序圖-2")
+
+### 活動圖-案例2:
+![活動圖-2](Activity-Diagram2.png "活動圖-2")
 
 使用案例說明 - 3:
 | 使用案例名稱 | 訂閱頻道 |
@@ -190,8 +202,11 @@ classDiagram
 使用案例圖 - 3:<br>
 ![UML3](UML3.png "UML3")
 
+### 循序圖 - 3:
+![循序圖-3](循序圖-3.png "循序圖-3")
 
-
+### 活動圖-案例3:
+![活動圖-3](Activity-Diagram3.png "活動圖-3")
 ---
 ### 動態模擬畫面:
 [使用者案例1模擬畫面](https://www.figma.com/proto/Zo0ObYiY29YDC16TDFRk66/Untitled?node-id=7%3A1415&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=7%3A1415)
@@ -204,21 +219,3 @@ classDiagram
 
 ### 類別圖:
 ![Class Diagram](Class_Diagram.png "Class Diagram")
-
-### 循序圖 - 1:
-![循序圖-1](循序圖-1.png "循序圖-1")
-
-### 活動圖-案例1:
-![活動圖-1](Activity-Diagram1.png "活動圖-1")
-
-### 循序圖 - 2:
-![循序圖-2](循序圖-2.png "循序圖-2")
-
-### 活動圖-案例2:
-![活動圖-2](Activity-Diagram2.png "活動圖-2")
-
-### 循序圖 - 3:
-![循序圖-3](循序圖-3.png "循序圖-3")
-
-### 活動圖-案例3:
-![活動圖-3](Activity-Diagram3.png "活動圖-3")
