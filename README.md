@@ -204,3 +204,12 @@ classDiagram
 
 ### 類別圖:
 ![Class Diagram](Class_Diagram.png "Class Diagram")
+
+### 循序圖 - 1:
+![循序圖-1](循序圖-1.png "循序圖-1")
+
+### 循序圖 - 2:
+![循序圖-2](循序圖-2.png "循序圖-2")
+
+### 循序圖 - 3:
+![循序圖-3](循序圖-3.png "循序圖-3")
