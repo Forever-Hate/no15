@@ -213,3 +213,12 @@ classDiagram
 
 ### 循序圖 - 3:
 ![循序圖-3](循序圖-3.png "循序圖-3")
+
+### 活動圖 - 1:
+![活動圖-1](Activity-Diagram1.png "活動圖-1")
+
+### 活動圖 - 2:
+![活動圖-2](Activity-Diagram2.png "活動圖-2")
+
+### 活動圖 - 3:
+![活動圖-3](Activity-Diagram3.png "活動圖-3")
